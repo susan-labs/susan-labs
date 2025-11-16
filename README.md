@@ -35,7 +35,8 @@
 
 - LinkedIn: https://www.linkedin.com/in/susan-khanal/  
 - Portfolio: https://susankhanal.com  
-- Email: susan@susankhanal.com 
+- Email: susan@susankhanal.com
+- Blogs: https://blogs.susankhanal.com
 
 ---
 
