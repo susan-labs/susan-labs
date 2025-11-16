@@ -18,8 +18,14 @@
 
 ---
 
-## 📂 Featured Projects
+### 📝 Latest Blog Posts  
+- [Visit my blog](https://blogs.susankhanal.com) — I write about networking, lab automation, and homelab projects.
 
+
+---
+
+
+## 📂 Featured Projects
 
 *Check out my pinned repositories for more projects.*
 
