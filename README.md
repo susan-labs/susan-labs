@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I’m Susan 👋
 
-<!--
-**susan-labs/susan-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Support Officer | Networking Enthusiast | Homelabber**
 
-Here are some ideas to get you started:
+- 🔧 Working professionally in technical support for 2+ years  
+- 🌐 Passionate about building homelabs, network automation, and documentation  
+- 🔭 Currently automating my lab infrastructure and leveling up in DevOps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech & Tools
+
+- **Networking:** VLANs, Routing, Firewalls (pfSense), VPN  
+- **Automation:** Ansible, PowerShell, Bash  
+- **Virtualisation / Lab:** Proxmox, VMware, Docker  
+- **Scripting:** Python, Shell  
+- **Documentation:** Markdown, Git, GitHub  
+
+---
+
+## 📂 Featured Projects
+
+
+*Check out my pinned repositories for more projects.*
+
+---
+
+## 📊 GitHub Stats
+
+[![Susan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=susan-labs&show_icons=true&theme=default)](https://github.com/susan-labs)
+
+---
+
+## 📫 How to Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/susan-khanal/  
+- Portfolio: https://susankhanal.com  
+- Email: susan@susankhanal.com 
+
+---
+
+## 🎯 Currently Learning
+
+- CCNA
+- Cyber Security
