@@ -2,7 +2,7 @@
 
 **Technical Support Officer | Networking Enthusiast | Homelabber**
 
-- 🔧 Working professionally in technical support for 2+ years  
+- 🔧 Working professionally in tech for 2+ years  
 - 🌐 Passionate about building homelabs, network automation, and documentation  
 - 🔭 Currently automating my lab infrastructure and leveling up in DevOps  
 
