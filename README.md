@@ -1,6 +1,6 @@
 # Hi, I’m Susan 👋
 
-**Technical Support Officer | Networking Enthusiast | Homelabber**
+**Enterprise Engineer | Networking Enthusiast | Homelabber**
 
 - 🔧 Working professionally in tech for 2+ years  
 - 🌐 Passionate about building homelabs, network automation, and documentation  
